@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Ase3</string>
+    <string name="crear">Crear</string>
+    <string name="ver">Ver</string>
+    <string name="modificar">Modificar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="cerrarSesion">Cerrar Sesión</string>
+    <string name="creadores">Creadores</string>
+    <string name="contactos">Contactos</string>
+</resources>
