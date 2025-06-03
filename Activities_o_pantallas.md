@@ -2,7 +2,7 @@
 Todo cambia dependiendo del usuario.
 Si no eres un usuario privilegiado y quieres ir a una activity donde no puedes (Crear, Modificar, Eliminar), te avisa con un Toast (un mensaje, pues).
 
-- Inicio (todos)
+Inicio (todos)
 	- Crear (sólo admin)
 	- Ver: (todos) spinner
 		- RecyclerView
